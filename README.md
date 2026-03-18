@@ -43,3 +43,12 @@ The project uses exactly the same models and features as my Master's thesis:
 ## 📂 How to Run
 ```r
 source("yelp-fake-review-helpfulness.R")
+```
+
+## 📥 Dataset
+The dataset is **not included** in this repository (to keep it lightweight).
+
+**Download it here**:
+→ https://github.com/darshandagly/Fake-Review-Detection
+
+Place the file `reviews_dataset.csv` (or the exact name from the original repo) inside the `data/` folder before running the pipeline.
